@@ -1,0 +1,314 @@
+.App {
+  text-align: center;
+  background-image: url(https://tse4.mm.bing.net/th?id=OIP.2ksw3ZKYfUzcvr0c5BBa6gHaEK&pid=Api&P=0&h=180);
+ 
+}
+
+.back_ground{
+  background-image: url(https://tse4.mm.bing.net/th?id=OIP.2ksw3ZKYfUzcvr0c5BBa6gHaEK&pid=Api&P=0&h=180);
+ 
+}
+.button-nav-link{
+  background-color: blue;
+  padding: 13px;
+  justify-content: right;
+  display: flex;
+  position: sticky;
+  text-decoration: none;
+  
+
+}
+
+#button-link,#button-link1{
+  
+  /* background-color: azure; */
+  margin: 13px;
+  background-color: rgb(0, 204, 255);
+  color: white;
+  font-family: 'Franklin Gothic Medium';
+  text-decoration: none;
+  border-radius: 5px ;
+  font-size: 20px;
+  padding: 2px;
+  
+  
+}
+
+.menu_icon{
+  display: flex;
+  justify-content: right;
+ position: relative;
+ bottom: 72px;
+ 
+ 
+ 
+  /* padding-right: 20px; */
+
+}
+.icon1{
+  width: 35px;
+  height: 40px;
+  
+}
+
+
+
+.menu-nav{
+  background-color: black;
+    margin-bottom: 200px;
+    display: flex;
+    flex-direction: column;
+    /* gap: 1px; */
+    /* row-gap: 39px; */
+    text-decoration: none;
+    text-align: center;
+      
+  
+}
+.aim{
+  text-decoration: none;
+  /* background-color: blanchedalmond; */
+ display: block;
+ color: white; 
+margin: 1%;
+ font-family: 'Franklin Gothic Medium';
+ font-size: 20px;
+}
+
+.aim:hover{
+ background-color: aliceblue;
+ display: block;
+ color: rgb(201, 164, 164);
+ color: black;
+  
+}
+
+.theory{
+  text-decoration: none;
+  /* background-color: blanchedalmond; */
+ display: block;
+ color: white; 
+ margin: 1%;
+ font-family: 'Franklin Gothic Medium';
+ font-size: 20px;
+}
+
+.theory:hover{
+ background-color: aliceblue;
+ display: block;
+ color: rgb(201, 164, 164);
+ color: black; 
+}
+
+.pretest{
+  text-decoration: none;
+  /* background-color: blanchedalmond; */
+ display: block;
+ color: white; 
+ margin: 1%;
+ font-family: 'Franklin Gothic Medium';
+ font-size: 20px;
+}
+
+.pretest:hover{
+ background-color: aliceblue;
+ display: block;
+ color: rgb(201, 164, 164); 
+ color: black;
+}
+
+.procedure{
+  text-decoration: none;
+  
+ display: block;
+ color: white; 
+ margin: 1%;
+ font-family: 'Franklin Gothic Medium';
+ font-size: 20px;
+}
+
+.procedure:hover{
+ background-color: aliceblue;
+ display: block;
+ color: rgb(201, 164, 164);
+ color: black; 
+}
+
+.Circuitdiagram{
+  text-decoration: none;
+  
+ display: block;
+ color: white; 
+ margin: 1%;
+ font-family: 'Franklin Gothic Medium';
+ font-size: 20px;
+}
+
+.Circuitdiagram:hover{
+ background-color: aliceblue;
+ display: block;
+ color: rgb(201, 164, 164);
+ color: black; 
+}
+
+.posttext{
+  text-decoration: none;
+  
+ display: block;
+ color: white; 
+ margin: 1%;
+ font-family: 'Franklin Gothic Medium';
+ font-size: 20px;
+}
+
+.posttext:hover{
+ background-color: aliceblue;
+ display: block;
+ color: rgb(201, 164, 164); 
+ color: black;
+}
+
+.references{
+  text-decoration: none;
+  
+ display: block;
+ color: white; 
+ margin: 1%;
+ font-family: 'Franklin Gothic Medium';
+ font-size: 20px;
+}
+
+.references:hover{
+ background-color: aliceblue;
+ display: block;
+ color: rgb(201, 164, 164); 
+ color: black;
+}
+
+.feedback{
+  text-decoration: none;
+
+ display: block;
+ color: white; 
+ margin: 1%;
+ font-family: 'Franklin Gothic Medium';
+ font-size: 20px;
+}
+
+.feedback:hover{
+ background-color: aliceblue;
+ display: block;
+ color: rgb(201, 164, 164);
+ color: black; 
+}
+
+.menu-logo{
+  width: 60px;
+  height: 30px;
+  /* background-color: aliceblue; */
+  /* display: block; */
+}
+.menu-close{
+  background-color: cadetblue;
+}
+
+.heading{
+  background-color: blanchedalmond;
+  /* padding-bottom: 2px; */
+ position: relative;
+ bottom: 53px;
+ color: blue;
+ font-size: 28px;
+ 
+ font-family: 'Franklin Gothic Medium';
+ 
+}
+
+.aim-component{
+  color:cornflowerblue;
+  font-size: 40px;
+}
+#theory-wireprocess{
+  background-color: blueviolet;
+  color: rgb(201, 204, 111);
+  font-size: 20px;
+}
+#strong1-theory{
+  color: blue;
+  display: inline-block;
+}
+#strong2-theory{
+  color: firebrick;
+  display: inline-block;
+}
+#strong3-theory{
+  color: fuchsia;
+}
+#strong4-theory{
+  color: tomato;
+}
+#strong5-theory{
+  color: greenyellow;
+}
+
+#strong6-theory{
+  color: darkorange;
+}
+
+#para{
+  font-size: 30px;
+}
+
+.header-theory{
+  color: blue;
+  font-size: 20px;
+  text-align: center;
+  justify-content: center;
+}
+
+.circuit-pic{
+  width: 500px;
+}
+
+
+.bulbImage{
+  width: 96px;
+  height: 50px;
+  margin-right: 71px;
+ position: relative;
+ top: 58px;
+}
+
+.button_1{
+  margin-right: 190px;
+  position: relative;
+  bottom: 100px;
+  color: white;
+  background-color: rgb(80, 80, 178);
+}
+
+.button_1:hover{
+ 
+  color: rgb(227, 62, 62);
+  background-color: rgb(207, 207, 233);
+}
+
+.button_2{
+  
+  position: relative;
+  bottom: 100px;
+  right: 2px;
+  color: white;
+  background-color: rgb(80, 80, 178);
+
+}
+
+
+.button_2:hover{
+ 
+  color: green;
+  background-color: rgb(207, 207, 233);
+  
+}
+
+
